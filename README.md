@@ -1,4 +1,4 @@
 # learn
 first repository 
 <br>
-Author -  Tanishka Yadav
+Author -  Tanishka Yadav(owner)
